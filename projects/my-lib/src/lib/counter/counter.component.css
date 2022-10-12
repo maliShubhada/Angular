@@ -1,0 +1,10 @@
+.div_css button{
+   background-color: aqua;
+   color: rgb(35, 34, 34);
+}
+.div_css label{
+    font-size: 20px;
+    font-weight: 600;
+    font-style:normal;
+    padding:10px;
+}

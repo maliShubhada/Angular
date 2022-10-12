@@ -1,7 +1,24 @@
-# MyLib
+# Get Started with Angular Library
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+This library was generated with [Angular CLI] version 13.3.0.
 
+## npm installation command
+
+```npm install @my-lib```
+
+ If any dependency issue exists,which install this with --force.
+
+ ```npm install @my-lib--force```
+## Uses
+**Increment and Decrement of number**
+ 
+ ```Number Increment by +1```
+ ```Number Decrement by -1```
+
+## Import Form
+
+```import{}```
+ 
 ## Code scaffolding
 
 Run `ng generate component component-name --project my-lib` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project my-lib`.
@@ -22,3 +39,4 @@ Run `ng test my-lib` to execute the unit tests via [Karma](https://karma-runner.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+

@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { MyLibModule } from 'my-lib';
-
+import { MyLibModule } from 'my-lib'
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CounterModule } from 'my-lib';
 
 @NgModule({
   declarations: [
@@ -13,7 +13,7 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule,
     MyLibModule,
-  
+    CounterModule,
     
   ],
   providers: [],
